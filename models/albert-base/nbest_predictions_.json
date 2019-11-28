@@ -1,0 +1,612 @@
+{
+    "5737aafd1c456719005744fb": [
+        {
+            "text": "pound-force",
+            "probability": 0.6449718439374329,
+            "start_logit": 8.274848937988281,
+            "end_logit": 9.071639060974121
+        },
+        {
+            "text": "The pound-force",
+            "probability": 0.3422152797152282,
+            "start_logit": 7.641082286834717,
+            "end_logit": 9.071639060974121
+        },
+        {
+            "text": "pound-force has a metric counterpart, less commonly used than the newton: the kilogram-force",
+            "probability": 0.004833239905219505,
+            "start_logit": 8.274848937988281,
+            "end_logit": 4.17794942855835
+        },
+        {
+            "text": "The pound-force has a metric counterpart, less commonly used than the newton: the kilogram-force",
+            "probability": 0.002564466281191566,
+            "start_logit": 7.641082286834717,
+            "end_logit": 4.17794942855835
+        },
+        {
+            "text": "pound-force has a metric counterpart, less commonly used than the newton: the kilogram-force (kgf)",
+            "probability": 0.0018589931510935589,
+            "start_logit": 8.274848937988281,
+            "end_logit": 3.2224674224853516
+        },
+        {
+            "text": "pound-force has a metric counterpart,",
+            "probability": 0.0009942946218160667,
+            "start_logit": 8.274848937988281,
+            "end_logit": 2.596710681915283
+        },
+        {
+            "text": "The pound-force has a metric counterpart, less commonly used than the newton: the kilogram-force (kgf)",
+            "probability": 0.0009863622221187836,
+            "start_logit": 7.641082286834717,
+            "end_logit": 3.2224674224853516
+        },
+        {
+            "text": "The pound-force has a metric counterpart,",
+            "probability": 0.0005275622731790758,
+            "start_logit": 7.641082286834717,
+            "end_logit": 2.596710681915283
+        },
+        {
+            "text": "force",
+            "probability": 0.0002612620633134669,
+            "start_logit": 0.46341097354888916,
+            "end_logit": 9.071639060974121
+        },
+        {
+            "text": "pound-force has a metric counterpart, less commonly used than the newton: the kilogram-force (kgf) (sometimes kilopond),",
+            "probability": 0.00023819793056071848,
+            "start_logit": 8.274848937988281,
+            "end_logit": 1.1677790880203247
+        },
+        {
+            "text": "pound-force has a metric counterpart, less commonly used than the newton:",
+            "probability": 0.00010169163509310738,
+            "start_logit": 8.274848937988281,
+            "end_logit": 0.31662216782569885
+        },
+        {
+            "text": "pound-force has a metric",
+            "probability": 9.078625819783176e-05,
+            "start_logit": 8.274848937988281,
+            "end_logit": 0.2031850516796112
+        },
+        {
+            "text": "pound-force has a metric counterpart, less commonly used",
+            "probability": 8.639334046417543e-05,
+            "start_logit": 8.274848937988281,
+            "end_logit": 0.1535877138376236
+        },
+        {
+            "text": "The pound-force has a metric counterpart, less commonly used than the newton:",
+            "probability": 5.395651248221396e-05,
+            "start_logit": 7.641082286834717,
+            "end_logit": 0.31662216782569885
+        },
+        {
+            "text": "The pound-force has a metric",
+            "probability": 4.8170234151312503e-05,
+            "start_logit": 7.641082286834717,
+            "end_logit": 0.2031850516796112
+        },
+        {
+            "text": "The pound-force has a metric counterpart, less commonly used",
+            "probability": 4.583939818518462e-05,
+            "start_logit": 7.641082286834717,
+            "end_logit": 0.1535877138376236
+        },
+        {
+            "text": "pound-force has",
+            "probability": 4.028905026758563e-05,
+            "start_logit": 8.274848937988281,
+            "end_logit": -0.6092431545257568
+        },
+        {
+            "text": "pound-force has a metric counterpart, less commonly",
+            "probability": 3.214666703805052e-05,
+            "start_logit": 8.274848937988281,
+            "end_logit": -0.8350141048431396
+        },
+        {
+            "text": "kilogram-force",
+            "probability": 2.7847856458888506e-05,
+            "start_logit": 3.118332624435425,
+            "end_logit": 4.17794942855835
+        },
+        {
+            "text": "The pound-force has",
+            "probability": 2.1376946507637316e-05,
+            "start_logit": 7.641082286834717,
+            "end_logit": -0.6092431545257568
+        }
+    ],
+    "5737aafd1c456719005744fc": [
+        {
+            "text": "kilopond),",
+            "probability": 0.7955664306881676,
+            "start_logit": 4.425231456756592,
+            "end_logit": 4.719913005828857
+        },
+        {
+            "text": "deprecated;",
+            "probability": 0.04313951664384271,
+            "start_logit": 2.4015417098999023,
+            "end_logit": 3.8289878368377686
+        },
+        {
+            "text": "generally deprecated;",
+            "probability": 0.038069663845348004,
+            "start_logit": 2.276520013809204,
+            "end_logit": 3.8289878368377686
+        },
+        {
+            "text": "The kilogram-force is not a part of the modern SI system, and is generally deprecated;",
+            "probability": 0.03560633907934991,
+            "start_logit": 2.2096259593963623,
+            "end_logit": 3.8289878368377686
+        },
+        {
+            "text": "is generally deprecated;",
+            "probability": 0.019148709302220374,
+            "start_logit": 1.5893375873565674,
+            "end_logit": 3.8289878368377686
+        },
+        {
+            "text": "(kgf) (sometimes kilopond),",
+            "probability": 0.01148225517368755,
+            "start_logit": 0.18697991967201233,
+            "end_logit": 4.719913005828857
+        },
+        {
+            "text": "The kilogram-force is not a part of the modern SI system,",
+            "probability": 0.010542696209597425,
+            "start_logit": 2.2096259593963623,
+            "end_logit": 2.6118974685668945
+        },
+        {
+            "text": "SI system, and is generally deprecated;",
+            "probability": 0.007274115918300121,
+            "start_logit": 0.6214245557785034,
+            "end_logit": 3.8289878368377686
+        },
+        {
+            "text": "(sometimes kilopond),",
+            "probability": 0.006495976471643947,
+            "start_logit": -0.38263991475105286,
+            "end_logit": 4.719913005828857
+        },
+        {
+            "text": "not a part of the modern SI system, and is generally deprecated;",
+            "probability": 0.004706019985677591,
+            "start_logit": 0.1859448105096817,
+            "end_logit": 3.8289878368377686
+        },
+        {
+            "text": "deprecated; however it still sees use for some purposes as expressing aircraft weight,",
+            "probability": 0.00423560426920699,
+            "start_logit": 2.4015417098999023,
+            "end_logit": 1.508074402809143
+        },
+        {
+            "text": "kilogram-force is not a part of the modern SI system, and is generally deprecated;",
+            "probability": 0.004187170798796508,
+            "start_logit": 0.06912755221128464,
+            "end_logit": 3.8289878368377686
+        },
+        {
+            "text": "kilogram-force (kgf) (sometimes kilopond),",
+            "probability": 0.004185466830301377,
+            "start_logit": -0.8222046494483948,
+            "end_logit": 4.719913005828857
+        },
+        {
+            "text": "generally deprecated; however it still sees use for some purposes as expressing aircraft weight,",
+            "probability": 0.0037378265510456497,
+            "start_logit": 2.276520013809204,
+            "end_logit": 1.508074402809143
+        },
+        {
+            "text": "aircraft weight, jet thrust, bicycle spoke tension, torque wrench settings and engine output torque.",
+            "probability": 0.0027246498707611364,
+            "start_logit": 1.5424097776412964,
+            "end_logit": 1.9260202646255493
+        },
+        {
+            "text": "SI system,",
+            "probability": 0.0021537961021247222,
+            "start_logit": 0.6214245557785034,
+            "end_logit": 2.6118974685668945
+        },
+        {
+            "text": "is generally deprecated; however it still sees use for some purposes as expressing aircraft weight,",
+            "probability": 0.0018800941962307427,
+            "start_logit": 1.5893375873565674,
+            "end_logit": 1.508074402809143
+        },
+        {
+            "text": "aircraft weight,",
+            "probability": 0.0017939036766494477,
+            "start_logit": 1.5424097776412964,
+            "end_logit": 1.508074402809143
+        },
+        {
+            "text": "modern SI system, and is generally deprecated;",
+            "probability": 0.0016763569110722063,
+            "start_logit": -0.8462747931480408,
+            "end_logit": 3.8289878368377686
+        },
+        {
+            "text": "not a part of the modern SI system,",
+            "probability": 0.001393407475975728,
+            "start_logit": 0.1859448105096817,
+            "end_logit": 2.6118974685668945
+        }
+    ],
+    "5737aafd1c456719005744fd": [
+        {
+            "text": "kilogram-force",
+            "probability": 0.28558160299947094,
+            "start_logit": 6.2437615394592285,
+            "end_logit": 7.191695213317871
+        },
+        {
+            "text": "metric slug",
+            "probability": 0.1651471582732438,
+            "start_logit": 5.964018821716309,
+            "end_logit": 6.9237470626831055
+        },
+        {
+            "text": "the kilogram-force",
+            "probability": 0.14066165533486544,
+            "start_logit": 5.535591125488281,
+            "end_logit": 7.191695213317871
+        },
+        {
+            "text": "the metric slug",
+            "probability": 0.14041290167199044,
+            "start_logit": 5.801769256591797,
+            "end_logit": 6.9237470626831055
+        },
+        {
+            "text": "kilogram-force leads to an alternate, but rarely used unit of mass: the metric slug",
+            "probability": 0.09137743671520715,
+            "start_logit": 5.372180461883545,
+            "end_logit": 6.9237470626831055
+        },
+        {
+            "text": "The kilogram-force leads to an alternate, but rarely used unit of mass: the metric slug",
+            "probability": 0.04942079186568247,
+            "start_logit": 4.7575531005859375,
+            "end_logit": 6.9237470626831055
+        },
+        {
+            "text": "The kilogram-force",
+            "probability": 0.04102499733949803,
+            "start_logit": 4.7575531005859375,
+            "end_logit": 6.737557411193848
+        },
+        {
+            "text": "kilogram-force (kgf)",
+            "probability": 0.030202906228368527,
+            "start_logit": 6.2437615394592285,
+            "end_logit": 4.94510555267334
+        },
+        {
+            "text": "the kilogram-force (kgf)",
+            "probability": 0.014876276137486016,
+            "start_logit": 5.535591125488281,
+            "end_logit": 4.94510555267334
+        },
+        {
+            "text": "metric slug (sometimes mug or hyl)",
+            "probability": 0.009814185943909794,
+            "start_logit": 5.964018821716309,
+            "end_logit": 4.100739002227783
+        },
+        {
+            "text": "the metric slug (sometimes mug or hyl)",
+            "probability": 0.008344305408227531,
+            "start_logit": 5.801769256591797,
+            "end_logit": 4.100739002227783
+        },
+        {
+            "text": "slug",
+            "probability": 0.008189120284004845,
+            "start_logit": 2.9599883556365967,
+            "end_logit": 6.9237470626831055
+        },
+        {
+            "text": "kilogram-force leads to an alternate, but rarely used unit of mass: the metric slug (sometimes mug or hyl)",
+            "probability": 0.005430279057645682,
+            "start_logit": 5.372180461883545,
+            "end_logit": 4.100739002227783
+        },
+        {
+            "text": "The kilogram-force leads to an alternate, but rarely used unit of mass: the metric slug (sometimes mug or hyl)",
+            "probability": 0.002936925139593233,
+            "start_logit": 4.7575531005859375,
+            "end_logit": 4.100739002227783
+        },
+        {
+            "text": "pound-force has a metric counterpart, less commonly used than the newton: the kilogram-force",
+            "probability": 0.002713395826961932,
+            "start_logit": 1.5874346494674683,
+            "end_logit": 7.191695213317871
+        },
+        {
+            "text": "The pound-force has a metric counterpart, less commonly used than the newton: the kilogram-force",
+            "probability": 0.0018074481612065717,
+            "start_logit": 1.1811497211456299,
+            "end_logit": 7.191695213317871
+        },
+        {
+            "text": "kilopond), is the force exerted by standard gravity on one kilogram of mass. The kilogram-force",
+            "probability": 0.0006503546159010372,
+            "start_logit": 0.6131340265274048,
+            "end_logit": 6.737557411193848
+        },
+        {
+            "text": "kilogram-force (kgf) (sometimes kilopond),",
+            "probability": 0.0005503325809614174,
+            "start_logit": 6.2437615394592285,
+            "end_logit": 0.9399349093437195
+        },
+        {
+            "text": "slug (sometimes mug or hyl)",
+            "probability": 0.00048665414545790537,
+            "start_logit": 2.9599883556365967,
+            "end_logit": 4.100739002227783
+        },
+        {
+            "text": "kilogram-force (kgf) (sometimes kilopond), is the force exerted by standard gravity on one kilogram of mass.",
+            "probability": 0.00037127227031712954,
+            "start_logit": 6.2437615394592285,
+            "end_logit": 0.5463477969169617
+        }
+    ],
+    "5737aafd1c456719005744fe": [
+        {
+            "text": "arcane units of force include the sth\u00e8ne,",
+            "probability": 0.379885029893989,
+            "start_logit": 6.689541816711426,
+            "end_logit": 7.294156074523926
+        },
+        {
+            "text": "arcane",
+            "probability": 0.3353999018255257,
+            "start_logit": 6.689541816711426,
+            "end_logit": 7.169610977172852
+        },
+        {
+            "text": "sth\u00e8ne,",
+            "probability": 0.17942992301864172,
+            "start_logit": 5.939457893371582,
+            "end_logit": 7.294156074523926
+        },
+        {
+            "text": "the sth\u00e8ne,",
+            "probability": 0.07963153150626091,
+            "start_logit": 5.1270833015441895,
+            "end_logit": 7.294156074523926
+        },
+        {
+            "text": "arcane units of force",
+            "probability": 0.011305640445888844,
+            "start_logit": 6.689541816711426,
+            "end_logit": 3.7795891761779785
+        },
+        {
+            "text": "arcane units",
+            "probability": 0.008624860132557746,
+            "start_logit": 6.689541816711426,
+            "end_logit": 3.5089361667633057
+        },
+        {
+            "text": "arcane units of force include the sth\u00e8ne, which is equivalent to 1000 N,",
+            "probability": 0.001220791105465629,
+            "start_logit": 6.689541816711426,
+            "end_logit": 1.5537865161895752
+        },
+        {
+            "text": "Other arcane units of force include the sth\u00e8ne,",
+            "probability": 0.0008479721969090753,
+            "start_logit": 0.5847657322883606,
+            "end_logit": 7.294156074523926
+        },
+        {
+            "text": "Other arcane",
+            "probability": 0.0007486733332804582,
+            "start_logit": 0.5847657322883606,
+            "end_logit": 7.169610977172852
+        },
+        {
+            "text": "arcane units of force include the sth\u00e8ne, which is equivalent to 1000 N, and the kip,",
+            "probability": 0.0007368039543900237,
+            "start_logit": 6.689541816711426,
+            "end_logit": 1.0488539934158325
+        },
+        {
+            "text": "sth\u00e8ne, which is equivalent to 1000 N,",
+            "probability": 0.0005766124928288634,
+            "start_logit": 5.939457893371582,
+            "end_logit": 1.5537865161895752
+        },
+        {
+            "text": "sth\u00e8ne, which is equivalent to 1000 N, and the kip,",
+            "probability": 0.00034801233639800415,
+            "start_logit": 5.939457893371582,
+            "end_logit": 1.0488539934158325
+        },
+        {
+            "text": "ane",
+            "probability": 0.00034313910423125135,
+            "start_logit": -0.19540110230445862,
+            "end_logit": 7.169610977172852
+        },
+        {
+            "text": "the sth\u00e8ne, which is equivalent to 1000 N,",
+            "probability": 0.00025590233288365637,
+            "start_logit": 5.1270833015441895,
+            "end_logit": 1.5537865161895752
+        },
+        {
+            "text": "arcane units of force include the sth\u00e8ne, which is equivalent to 1000 N, and the kip, which is equivalent to 1000 lbf.",
+            "probability": 0.0002403256427869583,
+            "start_logit": 6.689541816711426,
+            "end_logit": -0.07147300988435745
+        },
+        {
+            "text": "the sth\u00e8ne, which is equivalent to 1000 N, and the kip,",
+            "probability": 0.00015444890609224606,
+            "start_logit": 5.1270833015441895,
+            "end_logit": 1.0488539934158325
+        },
+        {
+            "text": "sth\u00e8ne, which is equivalent to 1000 N, and the kip, which is equivalent to 1000 lbf.",
+            "probability": 0.00011351226869009043,
+            "start_logit": 5.939457893371582,
+            "end_logit": -0.07147300988435745
+        },
+        {
+            "text": "mass:",
+            "probability": 5.9143582166981065e-05,
+            "start_logit": 1.735722541809082,
+            "end_logit": 3.4803194999694824
+        },
+        {
+            "text": "the sth\u00e8ne, which is equivalent to 1000 N, and the kip, which is equivalent to 1000 lbf.",
+            "probability": 5.0377081193993344e-05,
+            "start_logit": 5.1270833015441895,
+            "end_logit": -0.07147300988435745
+        },
+        {
+            "text": "alternate, but rarely used unit of mass:",
+            "probability": 2.7398839819167592e-05,
+            "start_logit": 0.9662551283836365,
+            "end_logit": 3.4803194999694824
+        }
+    ],
+    "5737aafd1c456719005744ff": [
+        {
+            "text": "metric slug",
+            "probability": 0.22459291040504514,
+            "start_logit": 5.617054462432861,
+            "end_logit": 6.54503059387207
+        },
+        {
+            "text": "kilogram-force",
+            "probability": 0.17489170070301674,
+            "start_logit": 5.380351543426514,
+            "end_logit": 6.53161096572876
+        },
+        {
+            "text": "kilogram-force leads to an alternate, but rarely used unit of mass: the metric slug",
+            "probability": 0.15259250434010027,
+            "start_logit": 5.230535984039307,
+            "end_logit": 6.54503059387207
+        },
+        {
+            "text": "the metric slug",
+            "probability": 0.13546687844625005,
+            "start_logit": 5.111492156982422,
+            "end_logit": 6.54503059387207
+        },
+        {
+            "text": "the kilogram-force",
+            "probability": 0.0746006017033708,
+            "start_logit": 4.5283331871032715,
+            "end_logit": 6.53161096572876
+        },
+        {
+            "text": "The kilogram-force leads to an alternate, but rarely used unit of mass: the metric slug",
+            "probability": 0.06331962220883325,
+            "start_logit": 4.3509602546691895,
+            "end_logit": 6.54503059387207
+        },
+        {
+            "text": "The kilogram-force",
+            "probability": 0.051639398492378544,
+            "start_logit": 4.3509602546691895,
+            "end_logit": 6.34112024307251
+        },
+        {
+            "text": "kilogram-force (kgf)",
+            "probability": 0.0416680406073933,
+            "start_logit": 5.380351543426514,
+            "end_logit": 5.0971784591674805
+        },
+        {
+            "text": "the kilogram-force (kgf)",
+            "probability": 0.017773632988968984,
+            "start_logit": 4.5283331871032715,
+            "end_logit": 5.0971784591674805
+        },
+        {
+            "text": "metric slug (sometimes mug or hyl)",
+            "probability": 0.015281684324131545,
+            "start_logit": 5.617054462432861,
+            "end_logit": 3.857396125793457
+        },
+        {
+            "text": "kilogram-force leads to an alternate, but rarely used unit of mass: the metric slug (sometimes mug or hyl)",
+            "probability": 0.010382654008751397,
+            "start_logit": 5.230535984039307,
+            "end_logit": 3.857396125793457
+        },
+        {
+            "text": "the metric slug (sometimes mug or hyl)",
+            "probability": 0.00921739724133603,
+            "start_logit": 5.111492156982422,
+            "end_logit": 3.857396125793457
+        },
+        {
+            "text": "pound-force has a metric counterpart, less commonly used than the newton: the kilogram-force",
+            "probability": 0.006806581922098448,
+            "start_logit": 2.1340746879577637,
+            "end_logit": 6.53161096572876
+        },
+        {
+            "text": "slug",
+            "probability": 0.00599458809804296,
+            "start_logit": 1.993622064590454,
+            "end_logit": 6.54503059387207
+        },
+        {
+            "text": "The pound-force has a metric counterpart, less commonly used than the newton: the kilogram-force",
+            "probability": 0.0045578958608784165,
+            "start_logit": 1.7330456972122192,
+            "end_logit": 6.53161096572876
+        },
+        {
+            "text": "The kilogram-force leads to an alternate, but rarely used unit of mass: the metric slug (sometimes mug or hyl)",
+            "probability": 0.004308374989992214,
+            "start_logit": 4.3509602546691895,
+            "end_logit": 3.857396125793457
+        },
+        {
+            "text": "kilogram-force (kgf) (sometimes kilopond), is the force exerted by standard gravity on one kilogram of mass.",
+            "probability": 0.0023984475281924322,
+            "start_logit": 5.380351543426514,
+            "end_logit": 2.2422657012939453
+        },
+        {
+            "text": "kilopond), is the force exerted by standard gravity on one kilogram of mass. The kilogram-force",
+            "probability": 0.0017994932618069248,
+            "start_logit": 0.99418044090271,
+            "end_logit": 6.34112024307251
+        },
+        {
+            "text": "pound-force has a metric counterpart, less commonly used than the newton: the kilogram-force (kgf)",
+            "probability": 0.0016216717590799615,
+            "start_logit": 2.1340746879577637,
+            "end_logit": 5.0971784591674805
+        },
+        {
+            "text": "The pound-force has a metric counterpart, less commonly used than the newton: the kilogram-force (kgf)",
+            "probability": 0.0010859211103324573,
+            "start_logit": 1.7330456972122192,
+            "end_logit": 5.0971784591674805
+        }
+    ]
+}
