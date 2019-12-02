@@ -1,19 +1,19 @@
 # albert
 
-## Prerequisite
+## 1. Prerequisite
     - pip install -r requirement-dev.txt
 
-## model download
+## 2. model download
     - https://drive.google.com/drive/folders/1W_9xltC-57OOYIATbdeA0hlhU7YKLCkn?usp=sharing
     - Put into model files in ./models/albert/
 
-## How to run
-   - run albert evaluation
+## 3. How to run
+    - run albert evaluation
        ./run_eval_albert.sh
-   - run bert evaluation
+    - run bert evaluation
        ./run_eval_bert.sh
 
-## Results
+## 4. Results
     - bert(414M)
     {
       "exact": 80.21759697256385,
