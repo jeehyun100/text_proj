@@ -38,13 +38,13 @@ except:
 from tqdm import tqdm, trange
 
 from transformers import (WEIGHTS_NAME, BertConfig,
-                                  BertForQuestionAnswering, BertTokenizer,
-                                  XLMConfig, XLMForQuestionAnswering,
-                                  XLMTokenizer, XLNetConfig,
-                                  XLNetForQuestionAnswering,
-                                  XLNetTokenizer,
-                                  DistilBertConfig, DistilBertForQuestionAnswering, DistilBertTokenizer,
-                                  AlbertConfig, AlbertForQuestionAnswering, AlbertTokenizer)
+                                  BertForQuestionAnswering, BertTokenizer)
+                                  #XLMConfig, XLMForQuestionAnswering,
+                                  #XLMTokenizer, XLNetConfig,
+                                  #XLNetForQuestionAnswering,
+                                  #XLNetTokenizer,
+                                  #DistilBertConfig, DistilBertForQuestionAnswering, DistilBertTokenizer,
+                                  #AlbertConfig, AlbertForQuestionAnswering, AlbertTokenizer)
 
 from transformers import AdamW, get_linear_schedule_with_warmup
 
@@ -59,15 +59,15 @@ from utils_squad_evaluate import EVAL_OPTS, main as evaluate_on_squad
 
 logger = logging.getLogger(__name__)
 
-ALL_MODELS = sum((tuple(conf.pretrained_config_archive_map.keys()) \
-                  for conf in (BertConfig, XLNetConfig, XLMConfig)), ())
+# ALL_MODELS = sum((tuple(conf.pretrained_config_archive_map.keys()) \
+#                   for conf in (BertConfig, XLNetConfig, XLMConfig)), ())
 
 MODEL_CLASSES = {
     'bert': (BertConfig, BertForQuestionAnswering, BertTokenizer),
-    'xlnet': (XLNetConfig, XLNetForQuestionAnswering, XLNetTokenizer),
-    'xlm': (XLMConfig, XLMForQuestionAnswering, XLMTokenizer),
-    'distilbert': (DistilBertConfig, DistilBertForQuestionAnswering, DistilBertTokenizer),
-    'albert': (AlbertConfig, AlbertForQuestionAnswering, AlbertTokenizer)
+    # 'xlnet': (XLNetConfig, XLNetForQuestionAnswering, XLNetTokenizer),
+    # 'xlm': (XLMConfig, XLMForQuestionAnswering, XLMTokenizer),
+    # 'distilbert': (DistilBertConfig, DistilBertForQuestionAnswering, DistilBertTokenizer),
+    # 'albert': (AlbertConfig, AlbertForQuestionAnswering, AlbertTokenizer)
 }
 
 def set_seed(args):
@@ -354,14 +354,14 @@ def main():
     parser = argparse.ArgumentParser()
 
     ## Required parameters
-    parser.add_argument("--train_file", default=None, type=str, required=True,
+    parser.add_argument("--train_file", default=None, type=str, required=False,
                         help="SQuAD json for training. E.g., train-v1.1.json")
     parser.add_argument("--predict_file", default=None, type=str, required=True,
                         help="SQuAD json for predictions. E.g., dev-v1.1.json or test-v1.1.json")
     parser.add_argument("--model_type", default=None, type=str, required=True,
                         help="Model type selected in the list: " + ", ".join(MODEL_CLASSES.keys()))
     parser.add_argument("--model_name_or_path", default=None, type=str, required=True,
-                        help="Path to pre-trained model or shortcut name selected in the list: " + ", ".join(ALL_MODELS))
+                        help="Path to pre-trained model or shortcut name selected in the list: " + ", ".join(''))
     parser.add_argument("--output_dir", default=None, type=str, required=True,
                         help="The output directory where the model checkpoints and predictions will be written.")
 
